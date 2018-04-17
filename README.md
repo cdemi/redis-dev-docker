@@ -3,5 +3,5 @@
 To use:
 
 ```
-docker run --platform linux --restart always --name redis-dev cdemi/redis-dev-docker:latest
+docker run --platform linux --restart always --name redis-dev cdemi/redis-dev:latest
 ```
